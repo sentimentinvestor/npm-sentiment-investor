@@ -1,0 +1,35 @@
+{
+  "name": "sentiment-investor",
+
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/sentimentinvestor/npm-sentiment-investor"
+    },
+  "version": "1.0.9",
+  "description": "Access unstructured data from social media about stocks as quantitative metric - see https://sentimentinvestor.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "machine learning",
+    "AI",
+    "Artificial Intelligence",
+    "social",
+    "media",
+    "analysis",
+    "sentiment",
+    "analysis",
+    "stocks",
+    "financial",
+    "data",
+    "alternative",
+    "data",
+    "sentimentinvestor.com"
+  ],
+  "author": "Sentiment",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
